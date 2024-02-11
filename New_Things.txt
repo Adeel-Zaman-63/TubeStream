@@ -1,3 +1,2 @@
+Version: 1.0.2
 Version Details: Some bugs fiexd
-Layout is updated 
-Buttons added
