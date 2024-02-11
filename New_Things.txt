@@ -1,1 +1,3 @@
 Version Details: Some bugs fiexd
+Layout is updated 
+Buttons added
